@@ -10,9 +10,11 @@ At present a 4UM site is one single board which contains a number of topics. Top
 
 
   
-### Developers:
- Kyle Plummer,
- Erik O'Hara,
- James Catuccio,
- Pranjal Atrey,
- Shawn Edouard
+### Primary Developer:
+ Kyle Plummer - Research, Design, Backend, Documentation, Middleware, Frontend, Administration.
+ 
+### Secondary Developers:
+  Erik O'Hara - Frontend.
+  James Catuccio - Registration, Authentication.
+  Shawn Edouard - Implementation, Testing.
+  Pranjal Atrey
